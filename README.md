@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://i.kym-cdn.com/photos/images/original/001/475/422/473.jpg" width=50% height=50%>
 
 <!--
 **vase4kin/vase4kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
